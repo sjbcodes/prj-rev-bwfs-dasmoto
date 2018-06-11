@@ -1,0 +1,33 @@
+.image {
+  background-image: url("/Users/sarah/Documents/My Work/Projects/Dasmato/resources/images/pattern.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.header {
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-family: Helvetica, sans-sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding-left: 5px;
+}
+h2.brushes {
+  background-color: mediumspringgreen;
+}
+h2.frames {
+  background-color: lightcoral;
+}
+h2.paint {
+  background-color: skyblue;
+}
+.price {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
